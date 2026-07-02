@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!!
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0242-valid-anagram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Stack
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!!
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0242-valid-anagram) |
 | [0706-design-hashmap](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0706-design-hashmap) |
 ## Linked List
 |  |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0706-design-hashmap) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->

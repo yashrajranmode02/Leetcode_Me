@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!!
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0155-min-stack) |
 | [0706-design-hashmap](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0706-design-hashmap) |
 ## Queue
@@ -43,11 +44,13 @@ A collection of LeetCode questions to ace the coding interview!!
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0242-valid-anagram) |
 | [0706-design-hashmap](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0706-design-hashmap) |
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0146-lru-cache) |
 | [0706-design-hashmap](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
@@ -61,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0151-reverse-words-in-a-string) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->

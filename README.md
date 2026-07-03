@@ -19,15 +19,18 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0225-implement-stack-using-queues) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0225-implement-stack-using-queues) |
 | [0706-design-hashmap](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0706-design-hashmap) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0239-sliding-window-maximum) |
 ## Sliding Window
 |  |

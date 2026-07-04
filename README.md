@@ -89,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Database
+|  |
+| ------- |
+| [1148-article-views-i](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->

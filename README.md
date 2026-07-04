@@ -93,4 +93,5 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [1148-article-views-i](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1148-article-views-i) |
+| [1683-invalid-tweets](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->

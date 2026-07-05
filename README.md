@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0151-reverse-words-in-a-string](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0242-valid-anagram) |
+| [0516-longest-palindromic-subsequence](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1143-longest-common-subsequence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Stack
@@ -102,5 +103,6 @@ A collection of LeetCode questions to ace the coding interview!!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->

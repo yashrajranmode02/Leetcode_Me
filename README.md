@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!!
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0176-second-highest-salary) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0620-not-boring-movies](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0626-exchange-seats) |

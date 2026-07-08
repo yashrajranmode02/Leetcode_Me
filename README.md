@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [1148-article-views-i](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1148-article-views-i) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1527-patients-with-a-condition](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1527-patients-with-a-condition) |
 | [1683-invalid-tweets](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1683-invalid-tweets) |
 ## Dynamic Programming
 |  |

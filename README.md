@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0215-kth-largest-element-in-an-array](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0239-sliding-window-maximum) |
 | [0706-design-hashmap](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0706-design-hashmap) |
 | [1288-remove-covered-intervals](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1288-remove-covered-intervals) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!!
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0242-valid-anagram) |
 | [1288-remove-covered-intervals](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1288-remove-covered-intervals) |
 ## Two Pointers
@@ -158,8 +161,13 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0215-kth-largest-element-in-an-array](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0215-kth-largest-element-in-an-array) |
 ## Iterator
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0173-binary-search-tree-iterator) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->

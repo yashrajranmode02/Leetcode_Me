@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!!
 ## Linked List
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0146-lru-cache](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0146-lru-cache) |
 | [0706-design-hashmap](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0706-design-hashmap) |
 ## Hash Function
@@ -82,12 +83,14 @@ A collection of LeetCode questions to ace the coding interview!!
 ## Depth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!!
 ## Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0700-search-in-a-binary-search-tree) |
@@ -137,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!!
 ## Binary Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0700-search-in-a-binary-search-tree) |

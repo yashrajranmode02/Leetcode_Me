@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0185-department-top-three-salaries](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0196-delete-duplicate-emails) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0596-classes-with-at-least-5-students](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0626-exchange-seats) |
 | [1148-article-views-i](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1148-article-views-i) |

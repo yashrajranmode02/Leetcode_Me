@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0620-not-boring-movies](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0626-exchange-seats) |
 | [1148-article-views-i](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1148-article-views-i) |
+| [1280-students-and-examinations](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1280-students-and-examinations) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1527-patients-with-a-condition](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1527-patients-with-a-condition) |

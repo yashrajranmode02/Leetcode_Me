@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0189-rotate-array](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0239-sliding-window-maximum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0628-maximum-product-of-three-numbers) |
 | [0706-design-hashmap](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0706-design-hashmap) |
 | [1288-remove-covered-intervals](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1288-remove-covered-intervals) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1288-remove-covered-intervals) |
 ## Two Pointers
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0189-rotate-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1025-divisor-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Tree

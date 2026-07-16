@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0706-design-hashmap](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0706-design-hashmap) |
 | [1288-remove-covered-intervals](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1288-remove-covered-intervals) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0242-valid-anagram](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1288-remove-covered-intervals) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0165-compare-version-numbers](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0189-rotate-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0628-maximum-product-of-three-numbers](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1025-divisor-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
 |  |
 | ------- |
@@ -207,4 +211,12 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0136-single-number](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0136-single-number) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->

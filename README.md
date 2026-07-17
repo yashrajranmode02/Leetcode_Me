@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [1527-patients-with-a-condition](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1683-invalid-tweets) |
+| [1934-confirmation-rate](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Dynamic Programming
 |  |

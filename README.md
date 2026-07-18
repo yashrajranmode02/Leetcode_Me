@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!!
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0242-valid-anagram) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!!
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0189-rotate-array) |

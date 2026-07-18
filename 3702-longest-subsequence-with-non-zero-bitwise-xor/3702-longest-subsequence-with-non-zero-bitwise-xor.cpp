@@ -11,8 +11,9 @@ public:
         if(!p&&!xr)return 0;
         if (xr == 0)
             return n - 1;
-        if (xr == n)
-            return xr;
-        return n;
+
+        if(xr!=0)return n;
+     
+        return 0;
     }
 };

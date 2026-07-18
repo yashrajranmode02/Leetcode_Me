@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0189-rotate-array](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1025-divisor-game) |
+| [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
@@ -220,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Greedy
+|  |
+| ------- |
+| [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 <!---LeetCode Topics End-->

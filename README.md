@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0165-compare-version-numbers](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0242-valid-anagram) |
 | [0516-longest-palindromic-subsequence](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1143-longest-common-subsequence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3295-report-spam-message](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3295-report-spam-message) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0322-coin-change](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0583-delete-operation-for-two-strings) |
 | [1025-divisor-game](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1025-divisor-game) |
 | [1143-longest-common-subsequence](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1143-longest-common-subsequence) |
 ## Math

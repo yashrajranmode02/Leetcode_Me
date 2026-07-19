@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0064-minimum-path-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0136-single-number) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0062-unique-paths](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0198-house-robber) |
 | [0516-longest-palindromic-subsequence](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0516-longest-palindromic-subsequence) |
@@ -265,4 +267,5 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->

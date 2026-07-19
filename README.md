@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0128-longest-consecutive-sequence](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0239-sliding-window-maximum) |
 | [0561-array-partition](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0561-array-partition) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0198-house-robber) |
 | [0516-longest-palindromic-subsequence](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0516-longest-palindromic-subsequence) |
 | [1025-divisor-game](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1025-divisor-game) |
 | [1143-longest-common-subsequence](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1143-longest-common-subsequence) |

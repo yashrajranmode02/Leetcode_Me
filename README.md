@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!!
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0125-valid-palindrome) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0064-minimum-path-sum) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview!!
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0044-wildcard-matching) |
 | [0561-array-partition](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0561-array-partition) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 ## Counting Sort
@@ -277,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0063-unique-paths-ii](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0064-minimum-path-sum) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->

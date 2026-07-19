@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0198-house-robber) |
 | [0516-longest-palindromic-subsequence](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0516-longest-palindromic-subsequence) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!!
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0628-maximum-product-of-three-numbers) |
@@ -253,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

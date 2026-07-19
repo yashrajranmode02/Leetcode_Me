@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0198-house-robber](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0239-sliding-window-maximum) |
+| [0416-partition-equal-subset-sum](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0416-partition-equal-subset-sum) |
 | [0561-array-partition](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0628-maximum-product-of-three-numbers) |
 | [0706-design-hashmap](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0706-design-hashmap) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0064-minimum-path-sum](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0198-house-robber) |
+| [0416-partition-equal-subset-sum](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0516-longest-palindromic-subsequence) |
 | [1025-divisor-game](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1025-divisor-game) |
 | [1143-longest-common-subsequence](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1143-longest-common-subsequence) |

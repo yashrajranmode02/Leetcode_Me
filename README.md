@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0706-design-hashmap](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0706-design-hashmap) |
 | [1288-remove-covered-intervals](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1288-remove-covered-intervals) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3295-report-spam-message](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3295-report-spam-message) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0516-longest-palindromic-subsequence](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1143-longest-common-subsequence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3295-report-spam-message](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3295-report-spam-message) |
 ## Stack
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0242-valid-anagram](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0242-valid-anagram) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0706-design-hashmap](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0706-design-hashmap) |
+| [3295-report-spam-message](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3295-report-spam-message) |
 ## Linked List
 |  |
 | ------- |

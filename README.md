@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0561-array-partition](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0628-maximum-product-of-three-numbers) |
 | [0706-design-hashmap](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0706-design-hashmap) |
+| [1260-shift-2d-grid](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1288-remove-covered-intervals) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3295-report-spam-message](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3295-report-spam-message) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview!!
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0063-unique-paths-ii](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0064-minimum-path-sum) |
+| [1260-shift-2d-grid](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1260-shift-2d-grid) |
 ## Recursion
 |  |
 | ------- |

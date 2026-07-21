@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0076-minimum-window-substring](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0146-lru-cache) |
+| [0202-happy-number](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0242-valid-anagram) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0706-design-hashmap](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0706-design-hashmap) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0151-reverse-words-in-a-string](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0202-happy-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Doubly-Linked List
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0062-unique-paths](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1025-divisor-game) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |

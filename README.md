@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0215-kth-largest-element-in-an-array](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0322-coin-change) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0416-partition-equal-subset-sum) |
 | [0561-array-partition](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0628-maximum-product-of-three-numbers) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0239-sliding-window-maximum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0242-valid-anagram) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0561-array-partition](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1288-remove-covered-intervals) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
@@ -282,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0063-unique-paths-ii](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0064-minimum-path-sum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1260-shift-2d-grid](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1260-shift-2d-grid) |
 ## Recursion
 |  |

@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [1260-shift-2d-grid](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1306-jump-game-iii) |
+| [1539-kth-missing-positive-number](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1539-kth-missing-positive-number) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3295-report-spam-message](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3295-report-spam-message) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0700-search-in-a-binary-search-tree) |
+| [1539-kth-missing-positive-number](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1539-kth-missing-positive-number) |
 ## Binary Tree
 |  |
 | ------- |

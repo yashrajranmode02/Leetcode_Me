@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1306-jump-game-iii](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1306-jump-game-iii) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
@@ -147,15 +148,18 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0322-coin-change](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1306-jump-game-iii](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1306-jump-game-iii) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0128-longest-consecutive-sequence) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Graph Theory
 |  |
 | ------- |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Database
 |  |

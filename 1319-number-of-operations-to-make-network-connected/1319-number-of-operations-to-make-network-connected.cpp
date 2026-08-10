@@ -11,8 +11,9 @@ public:
             int node = q.front(); 
             Vertex++;
             q.pop(); 
+            edges+=adjacency_list[node].size();
             for (int i = 0; i < adjacency_list[node].size(); i++) {
-                edges++;
+                
                 if (!Visited[adjacency_list[node][i]]) {
                     q.push(adjacency_list[node][i]);
                     Visited[adjacency_list[node][i]] = 1;

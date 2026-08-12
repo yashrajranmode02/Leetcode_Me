@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [3693-climbing-stairs-ii](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3885-design-event-manager](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3885-design-event-manager) |
 ## String
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0173-binary-search-tree-iterator](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0225-implement-stack-using-queues) |
 | [0706-design-hashmap](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0706-design-hashmap) |
+| [3885-design-event-manager](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3885-design-event-manager) |
 ## Queue
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0215-kth-largest-element-in-an-array](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [3885-design-event-manager](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3885-design-event-manager) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0706-design-hashmap](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0706-design-hashmap) |
 | [0904-fruit-into-baskets](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0904-fruit-into-baskets) |
 | [3295-report-spam-message](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3295-report-spam-message) |
+| [3885-design-event-manager](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3885-design-event-manager) |
 ## Linked List
 |  |
 | ------- |
@@ -321,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0044-wildcard-matching) |
+## Ordered Set
+|  |
+| ------- |
+| [3885-design-event-manager](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3885-design-event-manager) |
 <!---LeetCode Topics End-->

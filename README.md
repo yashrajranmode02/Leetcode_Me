@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0063-unique-paths-ii](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0064-minimum-path-sum) |
+| [0088-merge-sorted-array](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0136-single-number) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!!
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!!
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0165-compare-version-numbers) |

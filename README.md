@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0628-maximum-product-of-three-numbers](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0628-maximum-product-of-three-numbers) |
 | [0706-design-hashmap](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0706-design-hashmap) |
 | [0904-fruit-into-baskets](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1004-max-consecutive-ones-iii) |
 | [1260-shift-2d-grid](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1306-jump-game-iii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0076-minimum-window-substring](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0239-sliding-window-maximum) |
 | [0904-fruit-into-baskets](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0700-search-in-a-binary-search-tree) |
+| [1004-max-consecutive-ones-iii](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1004-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1539-kth-missing-positive-number) |
 ## Binary Tree
 |  |
@@ -343,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0797-all-paths-from-source-to-target) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->

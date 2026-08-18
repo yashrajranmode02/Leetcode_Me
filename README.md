@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0662-maximum-width-of-binary-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0797-all-paths-from-source-to-target) |
 | [1306-jump-game-iii](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0322-coin-change](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0662-maximum-width-of-binary-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0797-all-paths-from-source-to-target) |
 | [1306-jump-game-iii](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0173-binary-search-tree-iterator](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0173-binary-search-tree-iterator](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0700-search-in-a-binary-search-tree) |
 ## Divide and Conquer
 |  |

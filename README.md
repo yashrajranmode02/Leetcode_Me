@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!!
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0088-merge-sorted-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0146-lru-cache) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview!!
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0064-minimum-path-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview!!
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0037-sudoku-solver) |
 | [0797-all-paths-from-source-to-target](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0797-all-paths-from-source-to-target) |
 ## Directed Acyclic Graph
 |  |
@@ -356,4 +360,12 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1004-max-consecutive-ones-iii) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->

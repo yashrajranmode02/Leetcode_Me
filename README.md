@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [1306-jump-game-iii](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1306-jump-game-iii) |
 | [1539-kth-missing-positive-number](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1539-kth-missing-positive-number) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3295-report-spam-message](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3295-report-spam-message) |
 | [3693-climbing-stairs-ii](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1260-shift-2d-grid) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |

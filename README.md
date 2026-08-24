@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [1091-shortest-path-in-binary-matrix](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1288-remove-covered-intervals) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1306-jump-game-iii](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1306-jump-game-iii) |
 | [1539-kth-missing-positive-number](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1539-kth-missing-positive-number) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0662-maximum-width-of-binary-tree](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0662-maximum-width-of-binary-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0797-all-paths-from-source-to-target) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1306-jump-game-iii](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1260-shift-2d-grid) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 ## Recursion
 |  |
 | ------- |

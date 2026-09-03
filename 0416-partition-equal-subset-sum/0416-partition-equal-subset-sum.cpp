@@ -1,8 +1,10 @@
 class Solution {
 public:
 bool F(vector<int>&nums,int index,int sum,int target,vector<vector<int>>&dp){
-    if(sum==target)return true;
-    if(index==nums.size()){return 0;}
+ 
+    if(index==nums.size()){
+           if(sum==target)return true;
+           return 0;}
     if(dp[index][sum]!=-1)return dp[index][sum];
 
     return dp[index][sum]=F(nums,index+1,sum+nums[index],target,dp)||F(nums,index+1,sum,target,dp);

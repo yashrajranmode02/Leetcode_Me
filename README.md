@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0239-sliding-window-maximum](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0322-coin-change) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0403-frog-jump](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0561-array-partition) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0115-distinct-subsequences](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0322-coin-change) |
+| [0403-frog-jump](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0516-longest-palindromic-subsequence) |

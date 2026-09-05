@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0146-lru-cache](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0146-lru-cache) |
 | [0706-design-hashmap](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0706-design-hashmap) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Hash Function
 |  |
 | ------- |

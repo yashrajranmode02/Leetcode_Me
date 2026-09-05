@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3885-design-event-manager](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3885-design-event-manager) |
+| [3903-smallest-stable-index-i](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3903-smallest-stable-index-i) |
 ## String
 |  |
 | ------- |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1004-max-consecutive-ones-iii) |
+| [3903-smallest-stable-index-i](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3903-smallest-stable-index-i) |
 ## Algorithm X
 |  |
 | ------- |

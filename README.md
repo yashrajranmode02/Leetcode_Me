@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3871-count-commas-in-range-ii](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3871-count-commas-in-range-ii) |
 ## Tree
 |  |
 | ------- |

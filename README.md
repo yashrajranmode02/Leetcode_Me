@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1306-jump-game-iii](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0662-maximum-width-of-binary-tree](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0700-search-in-a-binary-search-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0662-maximum-width-of-binary-tree](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0700-search-in-a-binary-search-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Divide and Conquer
 |  |
 | ------- |

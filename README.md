@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3295-report-spam-message](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3295-report-spam-message) |
+| [3483-unique-3-digit-even-numbers](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3483-unique-3-digit-even-numbers) |
 | [3693-climbing-stairs-ii](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0706-design-hashmap](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0706-design-hashmap) |
 | [0904-fruit-into-baskets](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0904-fruit-into-baskets) |
 | [3295-report-spam-message](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3295-report-spam-message) |
+| [3483-unique-3-digit-even-numbers](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3483-unique-3-digit-even-numbers) |
 | [3885-design-event-manager](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3885-design-event-manager) |
 ## Linked List
 |  |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0044-wildcard-matching) |
+| [3483-unique-3-digit-even-numbers](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3483-unique-3-digit-even-numbers) |
 ## Ordered Set
 |  |
 | ------- |
@@ -419,4 +422,8 @@ A collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1143-longest-common-subsequence) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->

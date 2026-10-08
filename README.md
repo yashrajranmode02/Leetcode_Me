@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0626-exchange-seats](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0627-swap-sex-of-employees) |
 | [1148-article-views-i](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1148-article-views-i) |
+| [1251-average-selling-price](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1280-students-and-examinations) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1378-replace-employee-id-with-the-unique-identifier) |

@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0583-delete-operation-for-two-strings](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0583-delete-operation-for-two-strings) |
 | [0940-distinct-subsequences-ii](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3295-report-spam-message](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3295-report-spam-message) |
 ## Stack
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0940-distinct-subsequences-ii](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1025-divisor-game) |
 | [1143-longest-common-subsequence](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3693-climbing-stairs-ii](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3693-climbing-stairs-ii) |
 ## Math
 |  |

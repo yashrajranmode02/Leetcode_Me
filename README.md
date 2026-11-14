@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!!
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0064-minimum-path-sum) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0151-reverse-words-in-a-string) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview!!
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0044-wildcard-matching) |
 | [0435-non-overlapping-intervals](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0561-array-partition) |

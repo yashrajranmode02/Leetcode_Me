@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3295-report-spam-message](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3295-report-spam-message) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
 | ------- |

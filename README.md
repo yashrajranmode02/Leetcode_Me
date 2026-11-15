@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0151-reverse-words-in-a-string](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0583-delete-operation-for-two-strings) |
 | [0940-distinct-subsequences-ii](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0940-distinct-subsequences-ii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0155-min-stack](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0225-implement-stack-using-queues) |
+| [0402-remove-k-digits](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0402-remove-k-digits) |
 ## Design
 |  |
 | ------- |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0011-container-with-most-water](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0044-wildcard-matching) |
+| [0402-remove-k-digits](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0561-array-partition) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
@@ -434,4 +437,8 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/3483-unique-3-digit-even-numbers) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->

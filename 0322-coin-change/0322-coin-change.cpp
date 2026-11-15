@@ -4,9 +4,9 @@ public:
         if(index>=coins.size()||sum>amount)return 1e9;
         if(sum==amount)return dp[index][sum]=0;
         if(dp[index][sum]!=-1)return dp[index][sum];
-        int take=F(index+1,sum,coins,amount,dp);
-        int NotTake=1+F(index,sum+coins[index],coins,amount,dp);
-        return dp[index][sum]=min(take,NotTake);
+        int NoTake=F(index+1,sum,coins,amount,dp);
+        int take=1+F(index,sum+coins[index],coins,amount,dp);
+        return dp[index][sum]=min(take,NoTake);
     }
     int coinChange(vector<int>& coins, int amount) {
         int d=1e9;

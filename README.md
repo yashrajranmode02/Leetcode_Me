@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0628-maximum-product-of-three-numbers](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0628-maximum-product-of-three-numbers) |
 | [0706-design-hashmap](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0706-design-hashmap) |
 | [0904-fruit-into-baskets](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0904-fruit-into-baskets) |
+| [0994-rotting-oranges](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1004-max-consecutive-ones-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1260-shift-2d-grid) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0662-maximum-width-of-binary-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0797-all-paths-from-source-to-target) |
+| [0994-rotting-oranges](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1306-jump-game-iii](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1306-jump-game-iii) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0063-unique-paths-ii](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0064-minimum-path-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0994-rotting-oranges](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1260-shift-2d-grid) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/yashrajranmode02/Leetcode_Me/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |

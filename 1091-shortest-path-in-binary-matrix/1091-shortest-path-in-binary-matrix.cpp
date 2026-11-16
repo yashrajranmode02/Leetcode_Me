@@ -24,6 +24,7 @@ public:
                 q.pop();
                 if (r1 == r - 1 && c1 == c - 1)
                     {
+                        return count;;
                         ans=min(ans,count);
                     }
                 grid[r1][c1] = 1;
